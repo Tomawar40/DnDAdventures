@@ -1,8 +1,8 @@
 import pygame
 
 print("Welcome to the character generator!")
-print("What kind of Character would you like to make?)
-print("Please list your preference, with the number attached.)
+print("What kind of Character would you like to make?")
+print("Please list your preference, with the number attached.")
 print(" 1. Fighter")
 print(" 2. Rogue")
 print(" 1. Wizard")
