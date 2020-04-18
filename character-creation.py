@@ -10,7 +10,7 @@ WisdomOfChar = 0
 IntellectOfChar = 0
 DexterityOfChar = 0
 ConstitutionOfChar = 0
-
+###########################################################################
 
 
 print("Welcome to the character generator!")
@@ -21,7 +21,7 @@ print(" 2. Rogue")
 print(" 1. Wizard")
 
 print("What Race would you like to be?")
-print("You could be flexible like a human, agile like an elf, or hearty as a dwarf. Pick which you'd prefer.")
+print("You could be flexible like a human, agile like an elf, or hearty as a dwarf. Pick the race which you would prefer to play in this realm.")
 
 #TODO Take the user choice and code in what would result from this choice. Include racial bonuses, features, and any other
 # impact to their character
@@ -41,6 +41,7 @@ print("Excellent. Now we will roll your attribute scores. These will affect how 
 #VARIABLES MODIFIED HERE: Hit Points
 
 #TODO Generate Initial Skill Scores. As a bonus, incorporate proficency bonus
+#
 
 #TODO Make the user selec character details like faith, physical descriptors, height/weight/etc. 
 
